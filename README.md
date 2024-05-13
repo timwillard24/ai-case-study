@@ -8,11 +8,11 @@ AccuScore was founded in 2004 by Tuomas Kanervala with the goal of providing acc
 
 To date, Accuscore has received undisclosed rounds of venture funding from venture capital firms, angel investors, and strategic partnerships over the years.  They were acquired by QL gaming as part of $1.1 million funding round in May of 2020 to strengthen QL Gamings primary platform BetQL. [^2]: *M&A info from [PitchBook](https://pitchbook.com/profiles/company/99032-95#overview)*  
 
-## Predicting the most Accurate Score
+## Predicting The Most Accurate Score
 
 Accuscore set out to provide sports fans, bettors, and fantasy sports enthusiasts with analysis and accurate predicitions for sporting events to enhance their customers overall sports-related exoperiences.  Utilizing statistical analysis, machine learning, data integration, real time updates, and visualization tools; Accuscore is able to provide incredible insight and more accurate predictions to it's customer base.[^3]:*[AccuScore](https://accuscore.com/about-us)*  
 
-As of 2020, the global sports betting market is approximately $203 billion [^4]*[Statista](https://www.statista.com/)* and the Fantasy sports market is an additional $31.73 billion [^5]*[Zion Market Research](https://www.zionmarketresearch.com/report/fantasy-sports-market)*
+As of 2020, the global sports betting market is approximately $203 billion [^4]*[Statista](https://www.statista.com/)* and the Fantasy sports market is an additional $31.73 billion and growing. [^5]*[Zion Market Research](https://www.zionmarketresearch.com/report/fantasy-sports-market)* >"The global online gambling market size was valued at USD 53.7 billion in 2019 and is expected to grow at a compound annual growth rate (CAGR) of 11.5% from 2020 to 2027." - Grand View Research
 
 
 * What specific problem is the company or project trying to solve?
