@@ -10,38 +10,49 @@ To date, Accuscore has received undisclosed rounds of venture funding from ventu
 
 ## Predicting The Most Accurate Score
 
-Accuscore set out to provide sports fans, bettors, and fantasy sports enthusiasts with analysis and accurate predicitions for sporting events to enhance their customers overall sports-related exoperiences.  Utilizing statistical analysis, machine learning, data integration, real time updates, and visualization tools; Accuscore is able to provide incredible insight and more accurate predictions to it's customer base.[^3]:*[AccuScore](https://accuscore.com/about-us)*  
+Accuscore set out to provide sports fans, bettors, and fantasy sports enthusiasts with analysis and accurate predicitions for sporting events.  It was designed to enhance their customers overall sports-related exoperiences and create better odds opprotunities in betting on those sports.  They cover all major sports and have set themselves apart by covering some of the less followed ones.  Accuscore offers services for:
 
-As of 2020, the global sports betting market is approximately $203 billion [^4]*[Statista](https://www.statista.com/)* and the Fantasy sports market is an additional $31.73 billion and growing. [^5]*[Zion Market Research](https://www.zionmarketresearch.com/report/fantasy-sports-market)* 
+1. Football (Soccer)
+2. American Football (NFL)
+3. Basketball (NBA)
+4. Baseball (MLB)
+5. Ice Hockey (NHL)
+6. Tennis
+7. Golf
+8. Esports
+9. Rugby
+10. Cricket
+11. Australian Rules Football (AFL)
+12. Motorsports
+13. Handball
+14. Volleyball
+15. MMA
+16. Boxing
+[^3]*Sourced from [ChatGPT](https://chatgpt.com)*
+
+Accuscore has become one of the best in the industry by providing sophisticated predictive models, transparency in their methodology, wide range of sports coverage, available real-time updates, and many customizable tools tailored to individual user's needs. They have used the following technologies to provide their maket edge:
+1. **Detailed Statistical Analysis** - historical data, player/team statistics, and other relavant factors to generate preditcions
+2. **Machine Learning** - algorithymic simulation engine to simulate each event up to 10,000 times
+3. **Data Integration** - third-party provider to incorporate weather, injuries, and over-all team dynamics for up-to-date information
+4. **Real-Time Updates** - Odds changes for informed betting deciusions
+5. **Visualization Tools** - To provide an easy to understand format
+[^4]*[AccuScore](https://accuscore.com/about-us)*  
+
+## Sports Betting Prediction Landscape and Results
+As of 2020, the global sports betting market was approximately $203 billion [^5]*[Statista](https://www.statista.com/)* and the Fantasy sports market is an additional $31.73 billion and growing. [^6]*[Zion Market Research](https://www.zionmarketresearch.com/report/fantasy-sports-market)* Accuscore is one of the leading provders of predictive modeling in the space and poised to continue to thrive from the ever growing market. 
 >"The global online gambling market size was valued at USD 53.7 billion in 2019 and is expected to grow at a compound annual growth rate (CAGR) of 11.5% from 2020 to 2027." - Grand View Research
 
+The rise in availability of online gambling has made the predictive analysis market a lucrative and crowded space.  There are many competitors in the industry and some notible ones are FifeThirtyEight, Numberfire, SportsLine, and Betegy with Accuscore being one of the premiere leaders in the industry.  The use of AI and machine learning has been extremely popular in sports beeting due to the availability of large amounts of historical data and increase in AI technologies.
 
-* What specific problem is the company or project trying to solve?
+Accuscore was able to achioeve such good results early on that they were acquired by BetQL and offer the services as part of a subscription model on BetQL's platform.  Their predictions have been so accurate that betting $100 on every game would have produced the following:
+ - NBA - $27,000 on point spread totals and home/away wins from the 2016-2016 season start
+ - NFL - $9,000 a year profit betting point spread from 2009 on 
+ - Soccer - $80,000 bankroll picking winners from 2014 on
+These kinds of profits are what have made Accuscore a leader in the field and a trusted name for sports fans worldwide.
+[^7]*from [Accuscore](https://accuscore.com/#)*
 
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?
-
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-
-## Landscape
-
-* What field is the company in?
-
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
-
-* What are the other major companies in this field?
-
-## Results
-
-* What has been the business impact of this company so far?
-
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
-
-* How is your company performing relative to competitors in the same field?
-
-## Recommendations
-
+## Moving Forward
+My reccomendation for the furture of the company would be to have an increased focus on the eSports arena.   
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
 * Why do you think that offering this product or service would benefit the company?
