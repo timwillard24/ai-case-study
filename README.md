@@ -59,11 +59,11 @@ Why eSports betting?  Furthering the AI capabilities in this part of the busines
 The fact that Accuscore/BetQL has already grown on being leaders in some of the lesser watched sports gives it a further advantage to grow quickly in the eSports space.  Diving deeper into eSports could also be appealing to those already using the services for those smaller market sports.  With an ever growing audience of young people in the eSports space and an already established customer base looking to bet on non-traditional sports; increasing AI capabilities for eSports seems like a winning bet for Accuscore.
 
 Sources:
-[^1]: [LinkedIn](https://www.linkedin.com/in/kanervala/?originalSubdomain=fi)  
-[^2]: [PitchBook](https://pitchbook.com/profiles/company/99032-95#overview)  
-[^3]: [ChatGPT](https://chatgpt.com)  
-[^4]: [AccuScore](https://accuscore.com/about-us)  
-[^5]: [Statista](https://www.statista.com)  
-[^6]: [Zion Market Research](https://www.zionmarketresearch.com/report/fantasy-sports-market)  
+[^1]: [LinkedIn](https://www.linkedin.com/in/kanervala/?originalSubdomain=fi)
+[^2]: [PitchBook](https://pitchbook.com/profiles/company/99032-95#overview)
+[^3]: [ChatGPT](https://chatgpt.com)
+[^4]: [AccuScore](https://accuscore.com/about-us)
+[^5]: [Statista](https://www.statista.com)
+[^6]: [Zion Market Research](https://www.zionmarketresearch.com/report/fantasy-sports-market)
 [^7]: [Accuscore](https://accuscore.com/#)
 
