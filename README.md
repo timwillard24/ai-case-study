@@ -1,15 +1,15 @@
-# **Machine Learning in Professional Sports Gambling**
-## **AccuScore** - *AI for the win*
+# **Gambling with Machine Learning**
+## *AccuScore** - AI for the win*
 
 [AccuScore](https://accuscore.com/) is a global leader in sports forecasting using machine learning to accurately simulate the outcome of sporting events.  They utilize past player performance and relate that to team composition, weather, location, and individual player/coaching stats of upcoming opponents and have been providing game and player predictions to fans, bettors, sportsbooks, and fantasy sports platforms worldwide.
 
 AccuScore was founded in 2004 by Tuomas Kanervala with the goal of providing accurate sports predicitons and analysis to all and to further engage fans in the sports they love. Tuomas was a seasoned management consultant with Accenture and had a burning passion for sports and data leading to the creation of Accusore. He set out to develop a transparent predictive model that could utilize AI to more accurately predict sports outcomes for all who were passionate about sports. [^1]
 
-To date, Accuscore has received undisclosed rounds of venture funding from venture capital firms, angel investors, and strategic partnerships over the years.  They were acquired by QL gaming as part of $1.1 million funding round in May of 2020 to strengthen QL Gamings primary platform BetQL and provide their customers a betting edge. [^2]
+To date, Accuscore has received undisclosed rounds of venture funding from venture capital firms, angel investors, and strategic partnerships over the years.  They were acquired by QL gaming as part of $1.1 million funding round in May of 2020 to strengthen QL Gamings primary platform BetQL and provide their customers an AI betting edge. [^2]
 
 ## Predicting The Most Accurate Score
 
-Accuscore set out to provide sports fans, bettors, and fantasy sports enthusiasts with analysis and accurate predicitions for sporting events.  It was designed to enhance their customers overall sports-related exoperiences and create better odds opprotunities in betting on those sports.  They cover all major sports and have really set themselves apart by covering some of the less followed ones.  
+Accuscore set out to provide sports fans, bettors, and fantasy sports enthusiasts with analysis and accurate predicitions for sporting events.  It was designed to enhance their customers overall sports-related exoperiences and create better odds opprotunities in betting on those sports.  They cover all major sports and have really set themselves apart by covering some of the lesser followed ones.  
 
 Accuscore offers services for:
 1. Football (Soccer)
@@ -29,7 +29,7 @@ Accuscore offers services for:
 15. Boxing
 [^3]
 
-Accuscore has become one of the best in the industry by providing sophisticated predictive models, transparency in their methodology, wide range of sports coverage, available real-time updates, and many customizable tools tailored to individual user's needs. They have used the following technologies to provide their customer's an edge:
+Accuscore has become one of the best in the industry by providing sophisticated predictive models, transparency in their methodology, wide range of sports coverage, available real-time updates, and many customizable tools tailored to individual user's needs. They have used the following technologies to provide their customer's that beeting edge:
 1. **Detailed Statistical Analysis** - Historical data, player/team statistics, and other relavant factors to generate preditcions through AI modelling 
 2. **Machine Learning** - Algorithymic simulation engine to simulate each event up to 10,000 times for more accurate outcome preditctions.
 3. **Data Integration** - Third-party provider integrations to incorporate weather, injuries, and over-all team dynamics for up-to-date information on every game.
@@ -53,7 +53,7 @@ These kinds of profits are what have made Accuscore a leader in the field and a 
 ## AI for the AI generation
 My reccomendation for the furture of Accuscore would be to have an increased focus on the eSports arena.  eSports betting has become a multi-billion dollar a year industry and is ready for massive growth in the coming years.  With a market looking to reach $6.82 billion by 2027 and an active fan/audience size nearing 500 million worldwide, this is a huge space to invest in.
 
-Why eSports betting?  Furthering the AI capabilities in this part of the business makes sense due to the audience involved and the availability of a large amount of historical and real-time data. The core audience of eSports is a young, tech-savy, engaged audience who would surely see the appeal of using a service with the most advanced AI for eSports. With the top gaming companies having a huge amount of data available through API data integrations the machine learning and data alaysis Accuscore already utilizes could be further automated to better predict outcomes of the events in this space.  
+Why eSports betting?  Furthering the AI capabilities in this part of the business makes sense due to the audience involved and the availability of a large amount of historical and real-time data. The core audience of eSports is a young, tech-savy, engaged audience who would surely see the appeal of using a service with the most advanced AI for eSports. With the top gaming companies having a huge amount of data available through API data integrations the machine learning and data alaysis Accuscore already utilizes could be further automated to better predict outcomes of the events in eSports matchups before they occur.  
 
 The fact that Accuscore/BetQL has already grown on being leaders in some of the lesser watched sports gives it a further advantage to grow quickly in the eSports space.  Diving deeper into eSports could also be appealing to those already using the services for those smaller market sports.  With an ever growing audience of young people in the eSports space and an already established customer base looking to bet on non-traditional sports; increasing AI capabilities for eSports seems like a winning bet for Accuscore.
 
