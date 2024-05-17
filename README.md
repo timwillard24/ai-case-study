@@ -7,7 +7,7 @@ AccuScore was founded in 2004 by Tuomas Kanervala with the goal of providing acc
 
 To date, Accuscore has received undisclosed rounds of venture funding from venture capital firms, angel investors, and strategic partnerships over the years.  They were acquired by QL gaming as part of $1.1 million funding round in May of 2020 to strengthen QL Gamings primary platform BetQL and provide their customers an AI betting edge. [^2]
 
-## *Predicting The Most Accurate Score*
+## *The Most Accurate Score*
 
 Accuscore set out to provide sports fans, bettors, and fantasy sports enthusiasts with analysis and accurate predicitions for sporting events.  It was designed to enhance their customers overall sports-related exoperiences and create better odds opprotunities in betting on those sports.  They cover all major sports and have really set themselves apart by covering some of the lesser followed ones.  
 
@@ -30,14 +30,14 @@ Accuscore offers services for:
 [^3]
 
 Accuscore has become one of the best in the industry by providing sophisticated predictive models, transparency in their methodology, wide range of sports coverage, available real-time updates, and many customizable tools tailored to individual user's needs. They have used the following technologies to provide their customer's that beeting edge:
-1. **<u>Detailed Statistical Analysis</u>** - Historical data, player/team statistics, and other relavant factors to generate preditcions through AI modelling 
-2. **Machine Learning** - Algorithymic simulation engine to simulate each event up to 10,000 times for more accurate outcome preditctions.
-3. **Data Integration** - Third-party provider integrations to incorporate weather, injuries, and over-all team dynamics for up-to-date information on every game.
-4. **Real-Time Updates** - Real-time odds changes and player updates to make better informed betting decisions.
-5. **Visualization Tools** - Easy to use GUI to provide an easy to understand format for everyone.
+1. __Detailed Statistical Analysis__ - Historical data, player/team statistics, and other relavant factors to generate preditcions through AI modelling 
+2. __Machine Learning__ - Algorithymic simulation engine to simulate each event up to 10,000 times for more accurate outcome preditctions.
+3. __Data Integrations__ - Third-party provider integrations to incorporate weather, injuries, and over-all team dynamics for up-to-date information on every game.
+4. __Real-Time Updates__ - Real-time odds changes and player updates to make better informed betting decisions.
+5. __Visualization Tools__ - Easy to use GUI to provide an easy to understand format for everyone.
 [^4]
 
-## *Predicting the Results*
+## *Predicting the Outcome*
 As of 2020, the global sports betting market was approximately $203 billion [^5] and the Fantasy sports market is an additional $31.73 billion and growing. [^6] Accuscore is one of the leading providers of predictive modeling in the space and poised to continue to thrive from the ever growing market. 
 >"The global online gambling market size was valued at USD 53.7 billion in 2019 and is expected to grow at a compound annual growth rate (CAGR) of 11.5% from 2020 to 2027." - Grand View Research
 
