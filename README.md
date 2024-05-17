@@ -63,6 +63,6 @@ Sources:
 [^2]: [PitchBook](https://pitchbook.com/profiles/company/99032-95#overview)
 [^3]: [ChatGPT](https://chatgpt.com)
 [^4]: [AccuScore](https://accuscore.com/about-us)
-[^5]: [Statista](https://www.statista.com)
+[^5]: [Statista](https://www.statista.com/statistics/1154681/key-data-global-sports-betting-industry/)
 [^6]: [Zion Market Research](https://www.zionmarketresearch.com/report/fantasy-sports-market)
 [^7]: [Accuscore](https://accuscore.com/#)
