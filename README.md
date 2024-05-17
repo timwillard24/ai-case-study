@@ -1,5 +1,5 @@
 # **Gambling with Machine Learning**
-## *AccuScore** - AI for the win*
+## *AccuScore - AI for the win*
 
 [AccuScore](https://accuscore.com/) is a global leader in sports forecasting using machine learning to accurately simulate the outcome of sporting events.  They utilize past player performance and relate that to team composition, weather, location, and individual player/coaching stats of upcoming opponents and have been providing game and player predictions to fans, bettors, sportsbooks, and fantasy sports platforms worldwide.
 
@@ -7,7 +7,7 @@ AccuScore was founded in 2004 by Tuomas Kanervala with the goal of providing acc
 
 To date, Accuscore has received undisclosed rounds of venture funding from venture capital firms, angel investors, and strategic partnerships over the years.  They were acquired by QL gaming as part of $1.1 million funding round in May of 2020 to strengthen QL Gamings primary platform BetQL and provide their customers an AI betting edge. [^2]
 
-## Predicting The Most Accurate Score
+## *Predicting The Most Accurate Score*
 
 Accuscore set out to provide sports fans, bettors, and fantasy sports enthusiasts with analysis and accurate predicitions for sporting events.  It was designed to enhance their customers overall sports-related exoperiences and create better odds opprotunities in betting on those sports.  They cover all major sports and have really set themselves apart by covering some of the lesser followed ones.  
 
@@ -30,14 +30,14 @@ Accuscore offers services for:
 [^3]
 
 Accuscore has become one of the best in the industry by providing sophisticated predictive models, transparency in their methodology, wide range of sports coverage, available real-time updates, and many customizable tools tailored to individual user's needs. They have used the following technologies to provide their customer's that beeting edge:
-1. **Detailed Statistical Analysis** - Historical data, player/team statistics, and other relavant factors to generate preditcions through AI modelling 
+1. **<u>Detailed Statistical Analysis</u>** - Historical data, player/team statistics, and other relavant factors to generate preditcions through AI modelling 
 2. **Machine Learning** - Algorithymic simulation engine to simulate each event up to 10,000 times for more accurate outcome preditctions.
 3. **Data Integration** - Third-party provider integrations to incorporate weather, injuries, and over-all team dynamics for up-to-date information on every game.
 4. **Real-Time Updates** - Real-time odds changes and player updates to make better informed betting decisions.
 5. **Visualization Tools** - Easy to use GUI to provide an easy to understand format for everyone.
 [^4]
 
-## Sports Betting Prediction Landscape and Results
+## *Predicting the Results*
 As of 2020, the global sports betting market was approximately $203 billion [^5] and the Fantasy sports market is an additional $31.73 billion and growing. [^6] Accuscore is one of the leading providers of predictive modeling in the space and poised to continue to thrive from the ever growing market. 
 >"The global online gambling market size was valued at USD 53.7 billion in 2019 and is expected to grow at a compound annual growth rate (CAGR) of 11.5% from 2020 to 2027." - Grand View Research
 
@@ -50,7 +50,7 @@ Accuscore has provided such good results that they were acquired by BetQL and no
 These kinds of profits are what have made Accuscore a leader in the field and a trusted name for sports fans worldwide.
 [^7]
 
-## AI for the AI generation
+## *AI for the AI generation*
 My reccomendation for the furture of Accuscore would be to have an increased focus on the eSports arena.  eSports betting has become a multi-billion dollar a year industry and is ready for massive growth in the coming years.  With a market looking to reach $6.82 billion by 2027 and an active fan/audience size nearing 500 million worldwide, this is a huge space to invest in.
 
 Why eSports betting?  Furthering the AI capabilities in this part of the business makes sense due to the audience involved and the availability of a large amount of historical and real-time data. The core audience of eSports is a young, tech-savy, engaged audience who would surely see the appeal of using a service with the most advanced AI for eSports. With the top gaming companies having a huge amount of data available through API data integrations the machine learning and data alaysis Accuscore already utilizes could be further automated to better predict outcomes of the events in eSports matchups before they occur.  
