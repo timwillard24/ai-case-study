@@ -19,15 +19,14 @@ Accuscore offers services for:
 5. Ice Hockey (NHL)
 6. Tennis
 7. Golf
-8. Esports
-9. Rugby
-10. Cricket
-11. Australian Rules Football (AFL)
-12. Motorsports
-13. Handball
-14. Volleyball
-15. MMA
-16. Boxing
+8. Rugby
+9. Cricket
+10. Australian Rules Football (AFL)
+11. Motorsports
+12. Handball
+13. Volleyball
+14. MMA
+15. Boxing
 [^3]
 
 Accuscore has become one of the best in the industry by providing sophisticated predictive models, transparency in their methodology, wide range of sports coverage, available real-time updates, and many customizable tools tailored to individual user's needs. They have used the following technologies to provide their customer's an edge:
